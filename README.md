@@ -1,3 +1,3 @@
-# infrastructure
+# frontend
 
-> TODO: project description for infrastructure
+> TODO: project description for frontend
